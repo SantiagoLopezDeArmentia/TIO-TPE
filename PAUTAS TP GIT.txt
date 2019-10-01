@@ -2,7 +2,7 @@
 
 
 		[X]	- CREAR UN REPO PUBLICO EN GITHUB Y AGREGAR A LOS 
-		  	INTEGRANTES DEL GRUPO COMO COLABORADORES
+		  	INTEGRANTES DEL GRUPO COMO COLABORADORES                                                                                 [ ✓ ] - Completado.
 
 		[X]	- INFORME DE ENTRE 5 Y 7 PAGINAS
 
