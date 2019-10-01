@@ -10,7 +10,7 @@
 
 		[X]	- MOSTRAR COMO INICIAN EL REPOSITORIO CON LO RESPECTIVOS COMANDOS                                       [ ✓ ] - Completado.
 
-		[X]	- COPIAR EN EL INFORME EL ENLACE AL REPOSITORIO EN GITHUB
+		[X]	- COPIAR EN EL INFORME EL ENLACE AL REPOSITORIO EN GITHUB                                                           [ ✓ ] - Completado.
 
 		[X]	- AL MENOS UNA MILESTONE QUE INCLUYA AL MENOS DOS ISSUES
 
