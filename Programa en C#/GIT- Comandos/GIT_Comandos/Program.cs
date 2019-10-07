@@ -42,11 +42,12 @@ namespace GIT_Comandos
                 int i = 0;
                 foreach (DataRow row in comandos_GIT.Rows)
                    {
-                        Console.WriteLine(i + "-" + row[column.ColumnName]);
+                        Console.WriteLine(i + " - " + row[column.ColumnName]);
                         i++;
                    }
                 Console.WriteLine();
             }
+            Console.WriteLine("Presione enter para salir");
             Console.ReadLine();
         }
     }
