@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2CE67549-8303-4856-8FF3-DE7139B709BC}</ProjectGuid>
+    <ProjectGuid>{A464647D-8313-4BB3-9CB8-9F2BCEEBBCDF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>GIT__Comandos</RootNamespace>
-    <AssemblyName>GIT- Comandos</AssemblyName>
+    <RootNamespace>GIT_Comandos</RootNamespace>
+    <AssemblyName>GIT_Comandos</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,9 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="D:\TrabajoEspecialDeTIO\Programa en C# para mostrar comandos de git por consola\Program.cs">
-      <Link>Program.cs</Link>
-    </Compile>
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general de un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada a un ensamblado.
-[assembly: AssemblyTitle("GIT- Comandos")]
+[assembly: AssemblyTitle("GIT_Comandos")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("GIT- Comandos")]
+[assembly: AssemblyProduct("GIT_Comandos")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
-[assembly: Guid("2ce67549-8303-4856-8ff3-de7139b709bc")]
+[assembly: Guid("a464647d-8313-4bb3-9cb8-9f2bceebbcdf")]
 
 // La información de versión de un ensamblado consta de los cuatro valores siguientes:
 //
