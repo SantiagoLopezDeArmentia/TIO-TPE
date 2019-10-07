@@ -13,37 +13,57 @@
         <nav class="navbar navbar-light navbar-expand-md sticky-top navigation-clean-button" style="height:80px;background-color:#37434d;color:#ffffff;">
                <div class="container-fluid"><a class="navbar-brand" href="#"><i class="fa fa-globe"></i>ComandosGit</a><button class="navbar-toggler" data-toggle="collapse" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
                         <div class="collapse navbar-collapse" id="navcol-1">
-                               <ul class="nav navbar-nav ml-auto">
-                                       <li class="nav-item" role="presentation"><a class="nav-link active" href="#" style="color:#ffffff;"><i class="fa fa-home"></i> Home</a></li>
-                                       <li class="nav-item" role="presentation"><a class="nav-link active" href="#" style="color:#ffffff;"><i class="fa fa-wpexplorer"></i> Explore</a></li>
-                                       <li class="nav-item" role="presentation"><a class="nav-link active" href="#" style="color:#ffffff;"><i class="fa fa-star-o"></i> Features</a></li>
-                                       <li class="nav-item" role="presentation"><a class="nav-link active" href="#" style="color:#ffffff;"><i class="fa fa-user-circle-o"></i> Products</a></li>
-                                       <li class="nav-item" role="presentation"><a class="nav-link active" href="#" style="color:#ffffff;"><i class="fa fa-sign-in"></i> Sign In</a></li>
-                               </ul>
                        </div>
                 </div>
        </nav>
        <div class="row center">
-           <div class="col-4"><p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur maxime sit unde inventore hic, officia quos consequuntur ipsa ducimus iure ex natus dolore blanditiis, modi obcaecati ab. Fugit, molestiae dolores.</p>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur maxime sit unde inventore hic, officia quos consequuntur ipsa ducimus iure ex natus dolore blanditiis, modi obcaecati ab. Fugit, molestiae dolores.</p>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur maxime sit unde inventore hic, officia quos consequuntur ipsa ducimus iure ex natus dolore blanditiis, modi obcaecati ab. Fugit, molestiae dolores.</p>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur maxime sit unde inventore hic, officia quos consequuntur ipsa ducimus iure ex natus dolore blanditiis, modi obcaecati ab. Fugit, molestiae dolores.</p>
+           <div class="col-1"></div>
+           <div class="col-10">
+               <h1>Lista de comandos útiles para Git</h1>
+               <h6>Para clonar el repositorio de GitHub (sólo una vez):
+                </h6>
+            <p>git clone https://github.com/ejemplo/ejemplo.git</p>
+            <h6>Para subir nuevos materiales a GitHub:
+                </h6>
+                <p> git init: inicia git al interno de la carpeta
+                    git add nombre_archivo.txt: añade el documento (o carpeta) en el area de espera ("stage")
+                    git commit -m "mi primer mensaje de cambios": describe los cambios realizados
+                    git remote add origin https://github.com/ejemplo/ejemplo.git: apunta a la dirección donde deseáis subir el nuevo material
+                    git push -u origin master": subís los cambios al repositorio remoto en GitHub por primera vez</p>
+                    <p>###Push & Pull
+                        git add *: añade el documento (o carpeta) en el area de espera ("stage")
+                        git commit -m "mensaje con los detalles del cambio": describe los cambios realizados
+                        git push origin master: subís los cambios a GitHub *git push origin [branch]: subís los cambios al repositorio remoto en GitHub. Asegurar de escribir el nombre del branch que quieres subir sus cambios y nunca subas al master sin que todos revisemos sus cambios.</p>
+                        <h6>Sincronizar nuestra copia con el original:
+                            </h6>
+                        <p>
+                    git pull: baja los cambios del repositorio remoto a nuestra copia en local
+                    ###La Brújula: git status: señala lo que se ha modificado en la carpeta de trabajo</p>
+                <p>###Branches
+                    git branch: Para ver en que branch estas trabajando.
+                    git branch [name]: Para crear un branch nuevo. Asegurar de usar git checkout para camibar al branch.
+                    git checkout [branch]: Para cambiar de un branch a otro. Así por ejemplo, si estamos en "master" y queremos cambiarnos a un branch llamado "classwork", haremos 'git checkout classwork'.
+                    git branch -d [name]: Para quitar un branch. Es posible que git te da un error. Git no te permite quitar un branch que tiene commits no escritos al origin con esta orden. Si estas completamente seguro de que quieres quitar el branch, puedes usar la orden git branch -D [name].
+                    git checkout -b nombre_branch: para bajar el contenido de un branch
+                    git pull origin nombre_branch: para actualizar el contenido de un branch (y empezar a trabajar en ese branch).
+                    git checkout -b nombre_branch: para descargar el contenido de un branch
+                    git checkout -- file.html: para ignorar los cambios hechos en local (cuando queremos hacer un push)</p>
         </div>
-           <div class="col-4"><p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat possimus dicta eos delectus maiores, ad fugit, exercitationem deserunt, ratione nobis mollitia est corporis necessitatibus id quae ipsum sequi perferendis ut.
-           </p></div>
-           <div class="col-4"><p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reprehenderit necessitatibus nisi dolore quaerat adipisci. Repudiandae saepe nemo quo, perspiciatis officiis vel at fugiat laboriosam nobis amet ad quas facere commodi!</p></div>
+        <div class="col-1"></div>
+           </div>
        </div>
        <div class="row">
 
        </div>
     <footer>
         <div class="row">
-            <div class="col-sm-6 col-md-4 footer-navigation">
-                <h3><a href="#">Company<span>logo </span></a></h3>
+                <div class="col-sm-2 col-md-2 footer-navigation"></div>
+
+            <div class="col-sm-4 col-md-4 footer-navigation">
                 <p class="links"><a href="#"></a></p>
-                <p class="company-name">123 © 2019 </p>
+                <p class="company-name">ComandosGit © 2019 </p>
             </div>
-            <div class="col-sm-6 col-md-4 footer-contacts">
+            <div class="col-sm-6 col-md-6 footer-contacts">
                 <div><span class="fa fa-map-marker footer-contacts-icon"></span>
                     <p><span class="new-line-span">ComandosGit</span></p>
                 </div>
@@ -51,13 +71,8 @@
                     <p class="footer-center-info email text-left"> +12 3456 78910</p>
                 </div>
                 <div><i class="fa fa-envelope footer-contacts-icon"></i>
-                    <p><a href="#" target="_blank">support@123.com</a></p>
+                    <p><a href="#" target="_blank">support@ComandosGit.com</a></p>
                 </div>
-            </div>
-            <div class="clearfix"></div>
-            <div class="col-md-4 footer-about">
-                <h4>About the company</h4>
-                <p> Lorem ipsum dolor sit amet, consectateur adispicing elit. Fusce euismod convallis velit, eu auctor lacus vehicula sit amet. </p>
             </div>
         </div>
         </div>
