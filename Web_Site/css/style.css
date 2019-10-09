@@ -17,7 +17,9 @@ footer {
     bottom: 0;
     color: #fff;
   }
-
+p{
+    text-align: justify;
+}
 .center {
     text-align: center;
 }
@@ -25,6 +27,8 @@ footer {
 h1 {
     margin-top: 3%;
     margin-bottom: 3%;
+    text-decoration: underline;
+
 }
 .comandogit {
     color: yellow;
