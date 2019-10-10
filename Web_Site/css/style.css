@@ -3,8 +3,15 @@ body {
     width: 100%;
 }
 body {
-    background-color:orangered;
+    background-color: #E5EAEF;
 }
+
+nav {
+    background-color: #292c2f !important; /* Agregue el !important para quue haga override al color asignado por
+                                            bootstrap en las clases del elemento nav. */
+    
+}
+
 footer {
     background-color: #292c2f;
     box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
