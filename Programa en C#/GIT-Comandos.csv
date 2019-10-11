@@ -1,4 +1,4 @@
 Comando, Descripci¢n
-Git init, Crea repositorio de manera local.
-Git add, Sube el archivo.
-"Git commit -m ""MENSAJE"", Confirma con un mensaje descriptivo la adición del archivo al stage."
+git init, Crea repositorio de manera local.
+git add, Sube el archivo.
+git commit -m <MENSAJE>, Confirma con un mensaje descriptivo la adición del archivo al stage.

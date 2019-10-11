@@ -1,0 +1,7 @@
+D:\TrabajoEspecialDeTIO\Programa en C#\GIT- Comandos\GIT_Comandos\bin\Debug\GIT_Comandos.exe.config
+D:\TrabajoEspecialDeTIO\Programa en C#\GIT- Comandos\GIT_Comandos\bin\Debug\GIT_Comandos.exe
+D:\TrabajoEspecialDeTIO\Programa en C#\GIT- Comandos\GIT_Comandos\bin\Debug\GIT_Comandos.pdb
+D:\TrabajoEspecialDeTIO\Programa en C#\GIT- Comandos\GIT_Comandos\obj\Debug\GIT_Comandos.csprojAssemblyReference.cache
+D:\TrabajoEspecialDeTIO\Programa en C#\GIT- Comandos\GIT_Comandos\obj\Debug\GIT_Comandos.csproj.CoreCompileInputs.cache
+D:\TrabajoEspecialDeTIO\Programa en C#\GIT- Comandos\GIT_Comandos\obj\Debug\GIT_Comandos.exe
+D:\TrabajoEspecialDeTIO\Programa en C#\GIT- Comandos\GIT_Comandos\obj\Debug\GIT_Comandos.pdb
