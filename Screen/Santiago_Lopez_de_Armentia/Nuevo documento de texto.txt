@@ -1,0 +1,1 @@
+despues del conflicto con el duplicado de archivos, la eliminacion de archivos y una perdida total de archivos y fe en le trabajo, se vuelve en el tiempo pára corroborar posibles cambios, se hace un reset --hard <hash> sobre el master y C# y se vuelve a tener una copia de antes de hacer cagada. Se comprueba potencial de git.
