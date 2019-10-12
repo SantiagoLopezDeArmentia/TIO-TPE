@@ -2,3 +2,8 @@ Comando, Descripci¢n
 git init, Crea repositorio de manera local.
 git add, Sube el archivo.
 git commit -m <MENSAJE>, Confirma con un mensaje descriptivo la adición del archivo al stage.
+git checkout <hash-commit>, Nos traslada hacia un commit. version aterior del programa.
+git commit -am <MENSAJE>, Hace un add y commit a la vez.
+git reset --hard <hash-commit>, Transformo el master actual es una version anterior.
+git log, Se ve registro de commit's hechos.
+git push --force origin, Se fuerza el push al remoto.
