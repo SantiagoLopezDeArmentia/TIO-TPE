@@ -5,3 +5,10 @@ C:\Users\Santiago\source\repos\GIT- Comandos\obj\Debug\GIT- Comandos.csprojAssem
 C:\Users\Santiago\source\repos\GIT- Comandos\obj\Debug\GIT- Comandos.csproj.CoreCompileInputs.cache
 C:\Users\Santiago\source\repos\GIT- Comandos\obj\Debug\GIT- Comandos.exe
 C:\Users\Santiago\source\repos\GIT- Comandos\obj\Debug\GIT- Comandos.pdb
+D:\TrabajoEspecialDeTIO\Programa en C#\GIT- Comandos\GIT_Comandos\bin\Debug\GIT_Comandos.exe.config
+D:\TrabajoEspecialDeTIO\Programa en C#\GIT- Comandos\GIT_Comandos\bin\Debug\GIT_Comandos.exe
+D:\TrabajoEspecialDeTIO\Programa en C#\GIT- Comandos\GIT_Comandos\bin\Debug\GIT_Comandos.pdb
+D:\TrabajoEspecialDeTIO\Programa en C#\GIT- Comandos\GIT_Comandos\obj\Debug\GIT- Comandos.csprojAssemblyReference.cache
+D:\TrabajoEspecialDeTIO\Programa en C#\GIT- Comandos\GIT_Comandos\obj\Debug\GIT- Comandos.csproj.CoreCompileInputs.cache
+D:\TrabajoEspecialDeTIO\Programa en C#\GIT- Comandos\GIT_Comandos\obj\Debug\GIT_Comandos.exe
+D:\TrabajoEspecialDeTIO\Programa en C#\GIT- Comandos\GIT_Comandos\obj\Debug\GIT_Comandos.pdb
